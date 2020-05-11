@@ -44,7 +44,7 @@ def GradientBoostingR(X_train,y_train):
     return gradient
 
 def RamdomForestR(X_train,y_train):
-    params = { 'n_estimators': [1500]
+    params = { 'n_estimators': [300,700]
                
             }
 

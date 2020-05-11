@@ -34,7 +34,10 @@ Estimators:
       			  r2score: 0.9016002419155986
 * GradientBoostingRegressor-->rsme: 365376.08
       			       r2score: 0.9766642204138182
-* RandomForestRegressor-->
-* HistGradientBoostingRegressor--> rsme: 299148.833
+* RandomForestRegressor-->rsme: 371703.017 (better with 1500/3000 estimators)
+      			   r2score: 0.9758490193272177
+* HistGradientBoostingRegressor--> rsme: 299148.833 
       				    r2score: 0.9812237906981642
+* AutoML-H2o --> mse-->288958
+      				    
 
