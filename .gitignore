@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/launch.json
+.DS_Store
+.idea
+.vscode/
+./INPUT/diamonds_train.csv
+./INPUT/diamonds_test.csvsample_submission.csv
+./INPUT/sample_submission.csv
+__init__.py
+./src/__init__.py
